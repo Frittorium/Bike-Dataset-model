@@ -1,4 +1,4 @@
-# PedalCast: Neural Network Bike Rental Demand Predictor
+#Neural Network Bike Rental Demand Predictor
 
 A PyTorch neural network that predicts hourly bike rental demand from weather and calendar data, with a Tkinter GUI for interactive predictions.
 
