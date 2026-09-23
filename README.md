@@ -59,7 +59,7 @@ Training and validation loss tracked closely throughout training with no signs o
 
 Screenshots of the GUI in use:
 
-![GUI input form](images/Screengrab-Working-1-edited.png)
+![GUI input form](images/Screengrab-working-1-edited.png)
 ![GUI prediction result](images/Screengrab-working-2.png)
 
 ## Requirements
